@@ -38,7 +38,7 @@ YOLOv8 is the latest version in the YOLO family, known for:
 ## 🚀 How to Run
 
 1. Clone the repository:
-   git clone https://github.com/your-username/YOLO-v8-based-Object-Detection.git
+   git clone https://github.com/sourabh5657/YOLO-v8-based-Object-Detection.git
    cd YOLO-v8-based-Object-Detection
 
 Install dependencies:
